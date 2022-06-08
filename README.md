@@ -1,1 +1,4 @@
 # Cafe-Management-System
+
+# Description of Business
+The He & She Coffee is a business of fostering a sustainable economy ecosystem for the in-campus community. Through a lifestyle business concept, He & She Coffee helps to build strong students’ backgrounds and personalities. The main purpose of the He & She Coffee shop is to serve every customer with delightfully delicious coffee. Currently, there are more than 10 operating outlets around the country. To give back to the community, He & She Coffee staff and employees are recruited from the students  community. The mission of He & She Coffee is to provide a place for the student’s connections with leading local and global companies and help university students to bridge the gap between their university experience and their professional career.
